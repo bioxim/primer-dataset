@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5e46d4f910757c25d87ebb3e"},"nombre":"Libro Físico 3","fecha":{"$date":"2020-02-21T00:00:00Z"},"contactos":70,"pdf":"3Idv0IPx.pdf","__v":0,"pais":"Albania","producto":"Honey"}
+{"_id":{"$oid":"5e472c5828057d19d48c413b"},"nombre":"Xime Pedf","fecha":{"$date":"2020-02-12T00:00:00Z"},"contactos":12,"pdf":"_faH-dkH.pdf","__v":0,"pais":"China","producto":"Soybeans"}
+{"_id":{"$oid":"5e4a89613c166b28e04eefc9"},"nombre":"Prueba de Libro con campos Agregados","fecha":{"$date":"2020-02-17T00:00:00Z"},"contactos":15,"pais":"Anguilla","producto":"Honey","pdf":"h1m9Bs4o.pdf","__v":0}
