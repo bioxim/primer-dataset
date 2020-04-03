@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5e30c35b86f7d8070474c400"},"nombre":"Expoagro 2020","fechainicial":{"$date":{"$numberLong":"1583809200000"}},"fechafin":{"$date":{"$numberLong":"1584068400000"}},"tipo":"Nacional","categoria":"Maquinaria","imagen":"n9hjqiNYn.png","__v":{"$numberInt":"0"}}
