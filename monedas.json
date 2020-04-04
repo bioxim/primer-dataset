@@ -1,1 +1,11 @@
 {"_id":{"$oid":"5e8479702110a0284069f2fa"},"name":"Euro","code":"EUR","symbol":"€","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e88fd7f1ff7de0854c60139"},"code":"USD","name":"United States dollar","symbol":"$","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e88fe171ff7de0854c6013a"},"code":"CAD","name":"Canadian Dollar","symbol":"$","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e88feb11ff7de0854c6013b"},"code":"HKD","name":"Hong Kong dollar","symbol":"$","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e89054b1ff7de0854c6013c"},"code":"ISK","name":"Icelandic króna","symbol":"kr","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890664243ed80be89140ee"},"code":"PHP","name":"Philippine peso","symbol":"₱","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e8906b0243ed80be89140ef"},"code":"HUF","name":"Hungarian forint","symbol":"Ft","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890837b8f2bb173cd60392"},"code":"CZK","name":"Czech koruna","symbol":"Kč","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e89096eb8f2bb173cd60394"},"code":"GBP","name":"British pound","symbol":"£","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e8909a9b8f2bb173cd60395"},"code":"RON","name":"Romanian leu","symbol":"lei","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890a14b8f2bb173cd60396"},"code":"SEK","name":"Swedish krona","symbol":"sk","__v":{"$numberInt":"0"}}
