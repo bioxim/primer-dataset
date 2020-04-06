@@ -9,3 +9,24 @@
 {"_id":{"$oid":"5e89096eb8f2bb173cd60394"},"code":"GBP","name":"British pound","symbol":"£","__v":{"$numberInt":"0"}}
 {"_id":{"$oid":"5e8909a9b8f2bb173cd60395"},"code":"RON","name":"Romanian leu","symbol":"lei","__v":{"$numberInt":"0"}}
 {"_id":{"$oid":"5e890a14b8f2bb173cd60396"},"code":"SEK","name":"Swedish krona","symbol":"sk","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890b96b8f2bb173cd60397"},"code":"IDR","name":"Indonesian rupiah","symbol":"Rp","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890bbfb8f2bb173cd60398"},"code":"INR","name":"Indian rupee","symbol":"₹","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890be4b8f2bb173cd60399"},"code":"BRL","name":"Brazilian real","symbol":"R$","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890c9fb8f2bb173cd6039a"},"code":"RUB","name":"Russian ruble","symbol":"₽","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890cc8b8f2bb173cd6039b"},"code":"HRK","name":"Croatian kuna","symbol":"kn","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890d51b8f2bb173cd6039c"},"code":"JPY","name":"Japanese yen","symbol":"¥","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890d6fb8f2bb173cd6039d"},"code":"THB","name":"Thai baht","symbol":"฿","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890e5bb8f2bb173cd6039e"},"code":"CHF","name":"Swiss franc","symbol":"Fr","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890e8eb8f2bb173cd6039f"},"code":"MYR","name":"Malaysian ringgit","symbol":"RM","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890eb1b8f2bb173cd603a0"},"code":"BGN","name":"Bulgarian lev","symbol":"лв","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890edfb8f2bb173cd603a1"},"code":"TRY","name":"Turkish lira","symbol":"TL","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e890f23b8f2bb173cd603a2"},"code":"CNY","name":"Chinese yuan","symbol":"¥","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e8910b8b8f2bb173cd603a3"},"code":"NOK","name":"Norwegian krone","symbol":"kr","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e8910ddb8f2bb173cd603a4"},"code":"NZD","name":"New Zealand dollar","symbol":"$","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e891133b8f2bb173cd603a5"},"code":"ZAR","name":"South African rand","symbol":"R","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e891159b8f2bb173cd603a6"},"code":"MXN","name":"Mexican peso","symbol":"$","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e89117db8f2bb173cd603a7"},"code":"SGD","name":"Singapore dollar","symbol":"$","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e8911a8b8f2bb173cd603a8"},"code":"AUD","name":"Australian dollar","symbol":"$","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e8911ceb8f2bb173cd603a9"},"code":"ILS","name":"Israeli new shekel","symbol":"₪","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e8911e8b8f2bb173cd603aa"},"code":"KRW","name":"South Korean won","symbol":"₩","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e891213b8f2bb173cd603ab"},"code":"PLN","name":"Polish złoty","symbol":"zł","__v":{"$numberInt":"0"}}
