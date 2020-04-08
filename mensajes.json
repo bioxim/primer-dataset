@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5e8cf352020f8428404d7bc2"},"fecha":{"$date":{"$numberLong":"1585969200000"}},"escritor":"idescritor","lector":"idreceptor","titulo":"Saludos","mensaje":"Hola al que lea","__v":{"$numberInt":"0"}}
