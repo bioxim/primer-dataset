@@ -1,3 +1,6 @@
 {"_id":{"$oid":"5e68d92fb2784e1b24df5375"},"alta":{"$date":{"$numberLong":"1583929031832"}},"email":"ximecamino@gmail.com","__v":{"$numberInt":"0"}}
 {"_id":{"$oid":"5e874cc93fed820a3788ce06"},"alta":{"$date":{"$numberLong":"1585837264220"}},"email":"contact@foobe.com.ar","__v":{"$numberInt":"0"}}
 {"_id":{"$oid":"5e874cd23fed820a3788ce07"},"alta":{"$date":{"$numberLong":"1585837264220"}},"email":"sil_fontanari@hotmail.com","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e94ad48aa279706817cd9e3"},"alta":{"$date":{"$numberLong":"1586464534697"}},"email":"iba@ibauy.com","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e94ad5baa279706817cd9e4"},"alta":{"$date":{"$numberLong":"1586464534697"}},"email":"comercial@rlopezsrl.com","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e94ad7baa279706817cd9e5"},"alta":{"$date":{"$numberLong":"1586464534697"}},"email":"osvaldo@rlopezsrl.com","__v":{"$numberInt":"0"}}
