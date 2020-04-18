@@ -1,5 +1,5 @@
-{"_id":{"$oid":"5e398c6901b9252a5896e48c"},"tagline":"Connecting food and beverages traders, manufacturers and producers","__v":{"$numberInt":"0"}}
-{"_id":{"$oid":"5e872c2999f51d2de42d90bc"},"tagline":"Search for members with a contact list","__v":{"$numberInt":"0"}}
-{"_id":{"$oid":"5e872d0599f51d2de42d90bd"},"tagline":"We attend food tradeshows showing your products or services","__v":{"$numberInt":"0"}}
-{"_id":{"$oid":"5e872e7499f51d2de42d90be"},"tagline":"Useful interactive tools","__v":{"$numberInt":"0"}}
-{"_id":{"$oid":"5e872e8699f51d2de42d90bf"},"tagline":"Doing business is easier with FOOBE.  Please Join!","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e398c6901b9252a5896e48c"},"tagline":"Connecting food and beverages traders, manufacturers and producers","__v":{"$numberInt":"0"},"taglineEsp":"Conectando comerciantes, fabricantes y productores de alimentos y bebidas."}
+{"_id":{"$oid":"5e872c2999f51d2de42d90bc"},"tagline":"Search for members with a contact list","__v":{"$numberInt":"0"},"taglineEsp":"Buscar miembros para una lista de contactos"}
+{"_id":{"$oid":"5e872d0599f51d2de42d90bd"},"tagline":"We attend food tradeshows showing your products or services","__v":{"$numberInt":"0"},"taglineEsp":"Asistimos a ferias de alimentos que promocionan sus productos o servicios."}
+{"_id":{"$oid":"5e872e7499f51d2de42d90be"},"tagline":"Useful interactive tools","__v":{"$numberInt":"0"},"taglineEsp":"Útiles herramientas interactivas"}
+{"_id":{"$oid":"5e872e8699f51d2de42d90bf"},"tagline":"Doing business is easier with FOOBE.  Please Join!","__v":{"$numberInt":"0"},"taglineEsp":"Hacer negocios es más fácil con FOOBE. ¡Por favor únete!"}
