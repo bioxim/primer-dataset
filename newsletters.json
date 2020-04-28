@@ -4,3 +4,9 @@
 {"_id":{"$oid":"5e94ad48aa279706817cd9e3"},"alta":{"$date":{"$numberLong":"1586464534697"}},"email":"iba@ibauy.com","__v":{"$numberInt":"0"}}
 {"_id":{"$oid":"5e94ad5baa279706817cd9e4"},"alta":{"$date":{"$numberLong":"1586464534697"}},"email":"comercial@rlopezsrl.com","__v":{"$numberInt":"0"}}
 {"_id":{"$oid":"5e94ad7baa279706817cd9e5"},"alta":{"$date":{"$numberLong":"1586464534697"}},"email":"osvaldo@rlopezsrl.com","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e9d93d1aa279706817cd9e9"},"alta":{"$date":{"$numberLong":"1586464534697"}},"email":"ferramon@agro.uba.ar","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e9d93e2aa279706817cd9ea"},"alta":{"$date":{"$numberLong":"1586464534697"}},"email":"info@dagri.com.ar","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e9d93f0aa279706817cd9eb"},"alta":{"$date":{"$numberLong":"1586464534697"}},"email":"fundacion@recysol.org","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea2d74daa279706817cd9ec"},"alta":{"$date":{"$numberLong":"1586464534697"}},"email":"leticiadegaudio@hotmail.es","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea2d753aa279706817cd9ed"},"alta":{"$date":{"$numberLong":"1586464534697"}},"email":"patrizia.legnaro.sag@gmail.com","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea6d938aa279706817cd9ee"},"alta":{"$date":{"$numberLong":"1586464534697"}},"email":"intl@wdfgroup.biz","__v":{"$numberInt":"0"}}
